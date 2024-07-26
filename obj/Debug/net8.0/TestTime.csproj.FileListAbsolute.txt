@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\bin\Debug\net8.0\TestTime.exe
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\bin\Debug\net8.0\TestTime.deps.json
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\bin\Debug\net8.0\TestTime.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\bin\Debug\net8.0\TestTime.dll
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\bin\Debug\net8.0\TestTime.pdb
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.dll
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\refint\TestTime.dll
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.pdb
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\TestTime.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\TestTime\TestTime\obj\Debug\net8.0\ref\TestTime.dll
